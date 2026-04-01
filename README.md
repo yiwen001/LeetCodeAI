@@ -69,7 +69,7 @@
 
 ## 隐私政策
 
-本扩展尊重用户隐私，仅收集必要的力扣学习数据用于分析和推荐。详细信息请查看[隐私政策](https://github.com/yourusername/LeetCoach-AI/blob/main/privacy.md)。
+本扩展尊重用户隐私，仅收集必要的力扣学习数据用于分析和推荐。详细信息请查看[隐私政策](https://github.com/yiwen001/LeetCoach-AI-Privacy-policy)。
 
 ## 问题反馈
 
